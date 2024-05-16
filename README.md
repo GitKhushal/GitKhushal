@@ -1,9 +1,7 @@
 # Hello, I'm Khushal
 <a href="https://www.linkedin.com/in/khushalhedaoo"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
-I am a recent under graduate with a profound interest in cybersecurity, cloud and networking.
+Hello! I'm a third-year Electronics and Telecommunication Engineering BTech student with a passion for cybersecurity, networking, Python, and C++. Currently serving as the Event Management Lead at ISTE, I organize and execute engaging events to foster learning and networking opportunities for fellow students. My academic journey has equipped me with a strong foundation in hardware and embedded systems, complementing my interests in technology and security. 
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
