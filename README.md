@@ -8,7 +8,6 @@ Hello! I'm a third-year Electronics and Telecommunication Engineering BTech stud
 My journey in engineering has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Cloud security engineer.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -18,37 +17,48 @@ My journey in engineering has led me to develop a passion for cybersecurity, and
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+
+## Programming Languages
+<div>
+    <img src="https://img.shields.io/badge/-C++-00599C?&style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+    <img src="https://img.shields.io/badge/-C-00599C?&style=for-the-badge&logo=c&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Unix-000000?&style=for-the-badge&logo=unix&logoColor=white" />
+</div>
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
+### Developer Tools
+<div>
+    <img src="https://img.shields.io/badge/-VS%20Code-007ACC?&style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Eclipse-2C2255?&style=for-the-badge&logo=eclipse&logoColor=white" />
+    <img src="https://img.shields.io/badge/-PyCharm-000000?&style=for-the-badge&logo=pycharm&logoColor=white" />
+    <img src="https://img.shields.io/badge/-MATLAB-0076A8?&style=for-the-badge&logo=mathworks&logoColor=white" /> 
+</div>
+
+### Operating Systems
+<div>
+    <img src="https://img.shields.io/badge/-Windows-0078D6?&style=for-the-badge&logo=windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Kali%20Linux-557C94?&style=for-the-badge&logo=kali-linux&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Ubuntu-E95420?&style=for-the-badge&logo=ubuntu&logoColor=white" />   
+</div>
 
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Zap-EF3B2D?&style=for-the-badge&logo=zapier&logoColor=white" />
 </div>
 
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
-
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/-Google%20Certified-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
 <img src="https://img.shields.io/badge/-Udemy%20Certified-EC5252?&style=for-the-badge&logo=udemy&logoColor=white" />
-
+<img src="https://img.shields.io/badge/-Zscaler-4285F4?&style=for-the-badge&logo=zscaler&logoColor=white" />
+<img src="https://img.shields.io/badge/-Simplilearn-FF7F00?&style=for-the-badge&logo=simplilearn&logoColor=white" />
+<img src="https://img.shields.io/badge/-Infosys-0077C5?&style=for-the-badge&logo=infosys&logoColor=white" />
 
 </div>
 
