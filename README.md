@@ -4,7 +4,6 @@
 Hello! I'm a third-year Electronics and Telecommunication Engineering BTech student with a passion for cybersecurity, networking, Python, and C++. My academic journey has equipped me with a strong foundation in hardware and embedded systems, complementing my interests in technology and security. 
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
 My journey in engineering has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Cloud security engineer.
 
