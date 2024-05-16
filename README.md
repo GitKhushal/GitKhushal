@@ -1,7 +1,7 @@
 # Hello, I'm Khushal
 <a href="https://www.linkedin.com/in/khushalhedaoo"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Hello! I'm a third-year Electronics and Telecommunication Engineering BTech student with a passion for cybersecurity, networking, Python, and C++. My academic journey has equipped me with a strong foundation in hardware and embedded systems, complementing my interests in technology and security. 
+Hello! I'm a third-year Electronics and Telecommunication Engineering BTech student with a passion for cybersecurity, networking, Python, and C++. My academic journey has equipped me with a strong foundation in hardware and embedded systems, complementing my interests in networking and security. 
 
 ## Objective
 
@@ -11,13 +11,13 @@ My journey in engineering has led me to develop a passion for cybersecurity, and
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| C Programming in Arduino        | <a href="https://google.com">Detection Lab</a>|
-| Hardware Designing and Hardware Knowledge | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| C Programming in Arduino        | <a href="https://github.com/GitKhushal/Laser-Security-System">Laser Security System</a>|
+| Hardware Designing and Hardware Knowledge | <a href="https://github.com/GitKhushal/Laser-Security-System">Laser Security System</a>|
+| IOT         | <a href="https://github.com/GitKhushal/Gas-Leakage-Detection-System">Gas Leakage Detection</a>|
+| Kali Linux      | Penetration Testing|
+| Wireshark                 | Penetration Testing|
+| ZAP | Penetration Testing|
+| Burp Suite | Penetration Testing|
 
 ## Programming Languages
 <div>
@@ -51,6 +51,17 @@ My journey in engineering has led me to develop a passion for cybersecurity, and
     <img src="https://img.shields.io/badge/-Zap-EF3B2D?&style=for-the-badge&logo=zapier&logoColor=white" />
 </div>
 
+### Hacking Tools
+<div>
+    <img src="https://img.shields.io/badge/-SQL%20Injection-FF5733?&style=for-the-badge&logo=sql&logoColor=white" />
+    <img src="https://img.shields.io/badge/-BeEF-8A2BE2?&style=for-the-badge&logo=beef&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Netcat-000000?&style=for-the-badge&logo=netcat&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nmap-4B0082?&style=for-the-badge&logo=nmap&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Aircrack--ng-6C7A89?&style=for-the-badge&logo=aircrack-ng&logoColor=white" />
+
+    
+</div>
+
 
 ## Certifications
 <div>
@@ -65,5 +76,5 @@ My journey in engineering has led me to develop a passion for cybersecurity, and
 ## Projects
 - Iris Payment (In progress)
 - Penetration Testing (Maintaining Confidentiality)
-- <a href="https://google.com">Gas Leakage Detection</a>
--  <a href="https://google.com">Laser Security System</a>
+- <a href="https://github.com/GitKhushal/Gas-Leakage-Detection-System">Gas Leakage Detection</a>
+- <a href="https://github.com/GitKhushal/Laser-Security-System">Laser Security System</a>
