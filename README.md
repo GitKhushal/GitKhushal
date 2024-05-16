@@ -63,6 +63,7 @@ My journey in engineering has led me to develop a passion for cybersecurity, and
 </div>
 
 ## Projects
-- Penetration Testing
-- Gas Leakage Detection System
-- Laser Security System
+- Iris Payment (In progress)
+- Penetration Testing (Maintaining Confidentiality)
+- <a href="https://google.com">Gas Leakage Detection</a>
+-  <a href="https://google.com">Laser Security System</a>
