@@ -12,8 +12,8 @@ My journey in engineering has led me to develop a passion for cybersecurity, and
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| C Programming          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| C Programming in Arduino        | <a href="https://google.com">Detection Lab</a>|
+| Hardware Designing and Hardware Knowledge | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
