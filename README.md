@@ -5,7 +5,7 @@ Hello! I'm a third-year Electronics and Telecommunication Engineering BTech stud
 
 ## Objective
 
-My journey in engineering has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Cloud security engineer.
+My journey in engineering has led me to develop a passion for cybersecurity and computer networks, and I am now eager to transition into this field, specifically aiming to join a Networking or Cybersecurity related fields.
 
 ## Skills
 
