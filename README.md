@@ -17,7 +17,9 @@ My journey in engineering has led me to develop a passion for cybersecurity and 
 | Kali Linux      | Penetration Testing|
 | Wireshark                 | Penetration Testing|
 | ZAP | Penetration Testing|
-| Burp Suite | Penetration Testing|
+| Tines | SOAR EDR|
+| Slack | SOAR EDR|
+| LimaCharlie | SOAR EDR|
 
 ## Programming Languages
 <div>
