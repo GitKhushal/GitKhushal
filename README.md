@@ -1,7 +1,7 @@
 # Hello, I'm Khushal
 <a href="https://www.linkedin.com/in/khushalhedaoo"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Hello! I'm a third-year Electronics and Telecommunication Engineering BTech student with a passion for cybersecurity, networking, Python, and C++. My academic journey has equipped me with a strong foundation in hardware and embedded systems, complementing my interests in networking and security. 
+Hello! I'm a final year Electronics and Telecommunication Engineering BTech student with a passion for cybersecurity & networking. My academic journey has equipped me with a strong foundation in hardware and embedded systems, complementing my interests in security and networking.
 
 ## Objective
 
@@ -51,17 +51,26 @@ My journey in engineering has led me to develop a passion for cybersecurity and 
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
     <img src="https://img.shields.io/badge/-Zap-EF3B2D?&style=for-the-badge&logo=zapier&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Burp%20Suite-FF7F0F?&style=for-the-badge&logo=burp-suite&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+    <img src="https://img.shields.io/badge/-PuTTY-005C87?style=for-the-badge&logo=putty&logoColor=white" />
+
+
 
 </div>
 
-### Hacking Tools
+### Cybersecurity Tools
 <div>
     <img src="https://img.shields.io/badge/-SQL%20Injection-FF5733?&style=for-the-badge&logo=sql&logoColor=white" />
     <img src="https://img.shields.io/badge/-BeEF-8A2BE2?&style=for-the-badge&logo=beef&logoColor=white" />
     <img src="https://img.shields.io/badge/-Netcat-000000?&style=for-the-badge&logo=netcat&logoColor=white" />
     <img src="https://img.shields.io/badge/-Nmap-4B0082?&style=for-the-badge&logo=nmap&logoColor=white" />
     <img src="https://img.shields.io/badge/-Aircrack--ng-6C7A89?&style=for-the-badge&logo=aircrack-ng&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Tines-007ACC?&style=for-the-badge&logo=tines&logoColor=white" />
+    <img src="https://img.shields.io/badge/-LimaCharlie-2ECC71?&style=for-the-badge&logo=limacharlie&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
+
+
+
 
     
 </div>
@@ -69,7 +78,7 @@ My journey in engineering has led me to develop a passion for cybersecurity and 
 
 ## Certifications
 <div>
-<img src="https://img.shields.io/badge/-Google%20Certified-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/-Google%20Career%20Certificates-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 <img src="https://img.shields.io/badge/-Udemy%20Certified-EC5252?&style=for-the-badge&logo=udemy&logoColor=white" />
 <img src="https://img.shields.io/badge/-Zscaler-4285F4?&style=for-the-badge&logo=zscaler&logoColor=white" />
 <img src="https://img.shields.io/badge/-Simplilearn-FF7F00?&style=for-the-badge&logo=simplilearn&logoColor=white" />
@@ -79,6 +88,8 @@ My journey in engineering has led me to develop a passion for cybersecurity and 
 
 ## Projects
 - Iris Payment (In progress)
+- <a href="https://github.com/GitKhushal/SOAR-EDR"> SOAR EDR</a>
 - Penetration Testing (Maintaining Confidentiality)
 - <a href="https://github.com/GitKhushal/Gas-Leakage-Detection-System">Gas Leakage Detection</a>
 - <a href="https://github.com/GitKhushal/Laser-Security-System">Laser Security System</a>
+
