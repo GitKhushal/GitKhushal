@@ -17,9 +17,9 @@ My journey in engineering has led me to develop a passion for cybersecurity and 
 | Kali Linux      | Penetration Testing|
 | Wireshark                 | Penetration Testing|
 | ZAP | Penetration Testing|
-| Tines | SOAR EDR|
-| Slack | SOAR EDR|
-| LimaCharlie | SOAR EDR|
+| Tines | <a href="https://github.com/GitKhushal/SOAR-EDR"> SOAR EDR</a>|
+| Slack | <a href="https://github.com/GitKhushal/SOAR-EDR"> SOAR EDR</a>|
+| LimaCharlie | <a href="https://github.com/GitKhushal/SOAR-EDR"> SOAR EDR</a>|
 
 ## Programming Languages
 <div>
